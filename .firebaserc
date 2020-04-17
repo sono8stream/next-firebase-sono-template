@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "sono-portal-dev"
+    "default": "<firebase project name>"
   }
 }
